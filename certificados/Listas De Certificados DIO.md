@@ -6,5 +6,7 @@
 
 - [**Introdução ao Git e ao GitHub**](https://hermes.digitalinnovation.one/certificates/F313D551.pdf)
 
+- [**Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**](https://hermes.digitalinnovation.one/certificates/DAC24300.pdf)
+
   
 
